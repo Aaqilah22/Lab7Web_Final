@@ -71,24 +71,24 @@ Aplikasi artikel merupakan solusi digital yang memudahkan pengguna dalam **menge
 Selain sebagai sarana manajemen konten, aplikasi artikel juga menjadi media pembelajaran yang efektif untuk memahami konsep **CRUD (Create, Read, Update, Delete)**, **komunikasi API**, dan **integrasi antara frontend (VueJS) dan backend (CodeIgniter 4)**. Aplikasi ini sangat cocok digunakan untuk proyek pribadi, blog sederhana, sistem berita, maupun latihan praktikum pemrograman web.
 Dengan demikian, aplikasi artikel tidak hanya berguna secara fungsional, tetapi juga bermanfaat secara edukatif dalam membangun pemahaman tentang arsitektur web modern.
 
-## Fitur-fitur
-**HOME**
+# Fitur-fitur
+## HOME
 <img width="1920" height="1200" alt="Screenshot 2025-06-25 115753" src="https://github.com/user-attachments/assets/f79f243e-d04c-4a38-808b-ba45a4f1f08b" />
 
-**ARTIKEL**
+## ARTIKEL
 <img width="1719" height="1037" alt="Screenshot 2025-06-27 131648" src="https://github.com/user-attachments/assets/3453f09c-34cd-47d8-8eb4-be3e6b110e41" />
 
-**KONTAK**
+## KONTAK
 <img width="1557" height="846" alt="image" src="https://github.com/user-attachments/assets/02b0ac6b-2fc8-406a-bda7-beb7c4c41dbb" />
 
-**ABOUT**
+## ABOUT
 <img width="1587" height="820" alt="image" src="https://github.com/user-attachments/assets/5314931a-21a2-4af1-a812-692649bb687d" />
 
-**LOGIN**
+## **LOGIN**
 <img width="1712" height="512" alt="Screenshot 2025-06-27 132104" src="https://github.com/user-attachments/assets/1c472a98-cfa7-4a5e-a581-7a4ff1cff090" />
 
-**KATEGORI**
+## **KATEGORI**
 <img width="1920" height="1200" alt="Screenshot 2025-06-26 113500" src="https://github.com/user-attachments/assets/bfc767d1-2247-4201-a04e-dc7c866450ce" />
 
-**TAMBAH ARTIKEL**
+## **TAMBAH ARTIKEL**
 <img width="1920" height="1200" alt="Screenshot 2025-06-25 124236" src="https://github.com/user-attachments/assets/95555cf5-6186-4282-a8e7-2be71f90f688" />
