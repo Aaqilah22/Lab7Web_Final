@@ -7,6 +7,7 @@
 
 # PRAKTIKUM
 |Praktikum|	Judul Praktikum |
+|:-------:|:---------------:|
 |1|	PHP Framework (Codeigniter)|	
 |2|Framework Lanjutan (CRUD)|
 |3|	View Layout & View Cell|
