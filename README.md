@@ -46,6 +46,7 @@ Backend adalah bagian logika sistem di server — menangani data, proses, databa
 | Tampilkan data di tabel | Kirim data JSON dari DB   |
 | Form kirim artikel baru | Simpan ke tabel `artikel` |
 | Klik "hapus"            | Hapus artikel dari DB     |
+
 **Frontend** hanya menampilkan dan mengirim, sedangkan **Backend** yang mengolah data, mengakses database, dan menjawab permintaan.
 
 # Alat Pengembangan dan Pengujian
